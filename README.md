@@ -1,6 +1,6 @@
 # MultiModel Semantic Image Search using Qdrant Vector Database
 
-This repository contains a semantic image search system built using the Qdrant vector database. The system supports the following search functionalities:
+This repository contains a semantic image search system built using the Qdrant vector database and Google MultiModel LLM. The system supports the following search functionalities:
 - **Text-to-Image Search:** Retrieve images based on a textual query.
 - **Image-to-Image Search:** Retrieve similar images based on an input image.
 - **Text + Image-to-Image Search:** Retrieve images based on a combination of text and image input.
@@ -16,7 +16,7 @@ This repository contains a semantic image search system built using the Qdrant v
 
 ## Introduction
 
-This project demonstrates how to use the Qdrant vector database to perform semantic searches for images. By leveraging vector embeddings, the system enables efficient and accurate search capabilities, making it possible to retrieve images that match a given textual description, are visually similar to a provided image, or match a combination of both.
+This project demonstrates how to use the Quadrant vector database and Google Multmodel LLM to perform semantic searches for images. By leveraging vector embeddings, the system enables efficient and accurate search capabilities, making it possible to retrieve images that match a given textual description, are visually similar to a provided image, or match a combination of both.
 
 ## Features
 
