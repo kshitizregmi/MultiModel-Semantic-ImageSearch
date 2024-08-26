@@ -13,11 +13,6 @@ This repository contains a semantic image search system built using the Qdrant v
    - [Text-to-Image Search](#text-to-image-search)
    - [Image-to-Image Search](#image-to-image-search)
    - [Text + Image-to-Image Search](#text--image-to-image-search)
-5. [Input and Output Examples](#input-and-output-examples)
-6. [Configuration](#configuration)
-7. [Data Preparation](#data-preparation)
-8. [Contributing](#contributing)
-9. [License](#license)
 
 ## Introduction
 
@@ -47,3 +42,31 @@ streamlit run inference_app.py
 ```
 The following examples illustrate how to use the system for different types of searches:
 
+### Text-to-Image Search
+
+<img src="data/text-image.png">
+
+Output:
+
+<img src="data/text-img.png">
+
+
+### Image-to-Image Search
+<img src="data/img-img.webp">
+
+Output:
+
+<img src="data/image-image_result.png">
+
+
+### Text + Image-to-Image Search
+
+Input Text: ```Green Lehenga Choli```
+
+Input Image:
+
+<img src="data/img+text-img.webp">
+
+Output:
+
+<img src="data/image+text-image_result.png">
