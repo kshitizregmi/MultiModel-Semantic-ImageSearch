@@ -1,0 +1,9 @@
+pandas
+numpy
+beautifulsoup4
+requests
+qdrant-client
+Pillow
+ipython
+google-cloud-aiplatform
+streamlit
